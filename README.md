@@ -6,7 +6,9 @@
 [![Dependencies](https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen.svg)](requirements.txt)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-**A powerful yet simple personal finance management tool built with Python**
+**Modern personal finance management tool with a dark-themed interface**
+
+![Application Screenshot](screenshot/1.png)
 
 </div>
 
@@ -26,6 +28,11 @@
   - USD ($), EUR (€), GBP (£)
   - JPY (¥), CNY (¥), RUB (₽)
   - And many more!
+
+- 🎨 **Modern Design**
+  - Stylish dark theme
+  - Shadow effects and animations
+  - Beautiful icons and charts
 
 - 🎯 **User-Friendly Interface**
   - Intuitive design
@@ -85,6 +92,14 @@ Each transaction includes:
 - 💵 Amount
 - 🌐 Currency
 
+## 🖥️ Technical Details
+
+- Built with **Python**
+- UI powered by **PyQt6** (previously Tkinter)
+- Charts created with **Matplotlib**
+- Data handling with **Pandas**
+- Dark theme for comfortable use at any time of day
+
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to:
@@ -97,13 +112,6 @@ Contributions are welcome! Feel free to:
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- Built with [Python](https://www.python.org/)
-- UI powered by [Tkinter](https://docs.python.org/3/library/tkinter.html)
-- Graphs created with [Matplotlib](https://matplotlib.org/)
-- Data handling with [Pandas](https://pandas.pydata.org/)
 
 ---
 
